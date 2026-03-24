@@ -1,2 +1,2 @@
 # Introduction-to-AI
-Studying AI Basics with Assignments, theories or else
+Setup instructions, dependencies, how to run
